@@ -1,0 +1,28 @@
+body{
+  height: 200px;
+  width: 200px;  
+  background-color: #AAD9BB;
+}
+
+.joke{
+    display: flex;
+    justify-content: center;
+    background-color: #F9F7C9;
+    height: 170px;
+    width: 200px;
+}
+p{
+    margin: 5px;
+}
+button{
+    position: absolute;
+    top: 190px;
+    width: 195px;
+}
+img{
+    position: absolute;
+    height: 65px;
+    width: 65px;
+    left: 150px;
+    top: 115px;
+}
